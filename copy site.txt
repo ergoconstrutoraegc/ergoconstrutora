@@ -1,0 +1,609 @@
+===================================================================
+COPY COMPLETA — SITE INSTITUCIONAL ERGO CONSTRUTORA (MARAGOGI/AL)
+Foco: alta conversão + SEO local (Maragogi, Barra Grande, Costa dos Corais, litoral norte de Alagoas)
+===================================================================
+
+--------------------------------------------------------
+0. DIRETRIZES DE SEO USADAS NESTE DOCUMENTO
+--------------------------------------------------------
+Palavras-chave principais (usar naturalmente no texto, títulos e alt de imagens):
+- construtora em Maragogi
+- construtora Barra Grande Maragogi
+- construção civil Alagoas
+- construtora litoral norte de Alagoas
+- construtora Costa dos Corais
+- reforma em Maragogi
+- projeto arquitetônico Maragogi AL
+- construir casa de praia em Alagoas
+- empresa de construção civil Maragogi
+- pavimentação Maragogi
+- projeto de interiores litoral AL
+
+Palavras-chave de cauda longa (long tail, ótimas para "aparecer sempre nas buscas"):
+- "quanto custa construir uma casa em Maragogi"
+- "melhor construtora para casa de praia em Alagoas"
+- "construtora para investidores em Maragogi"
+- "empresa de reforma em Barra Grande Maragogi"
+- "projeto de arquitetura para casa de veraneio no litoral de Alagoas"
+- "construtora perto do Aeroporto Costa dos Corais"
+
+Recomendações técnicas de SEO on-page (aplicar na implementação do site):
+- 1 H1 por página, sempre contendo a palavra-chave principal daquela página
+- Meta title com até 60 caracteres e meta description com até 155 caracteres (modelos prontos abaixo)
+- URLs amigáveis: /sobre-nos, /servicos, /projetos, /contato
+- Cadastro e otimização completa do perfil no Google Meu Negócio (nome, categoria "Construtora", endereço, horário, fotos de obras, posts semanais)
+- NAP consistente (Nome, Endereço, Telefone) igual em todo lugar: site, Google Maps, Instagram, Linktree
+- Schema markup recomendado: LocalBusiness, Organization e FAQPage (perguntas frequentes no final de cada página)
+- Alt text em todas as fotos de obras com palavras-chave + nome do projeto + cidade (ex.: "fachada casa alto padrão Barra Grande Maragogi - Ergo Construtora")
+- Blog/página de conteúdo (opcional, mas recomendado): artigos como "Quanto custa construir uma casa em Maragogi em 2026", "Reforma x construção nova: o que vale mais a pena no litoral de AL" — geram tráfego orgânico contínuo
+- Link interno entre as páginas (Home → Serviços → Projetos → Contato) para distribuir autoridade
+- Site responsivo e rápido (mobile-first, já que a maioria das buscas locais é feita pelo celular)
+- Botão fixo de WhatsApp em todas as páginas (aumenta conversão em sites de construção civil)
+
+
+===================================================================
+1. HOME
+===================================================================
+
+SEO da página
+--------------
+Meta title: Ergo Construtora | Construção Civil e Reformas em Maragogi - AL
+Meta description: Construtora em Maragogi especializada em construção civil, reforma, projetos arquitetônicos e obras de alto padrão no litoral de Alagoas. Peça seu orçamento.
+H1: Construtora em Maragogi que transforma seu terreno em um projeto de alto padrão
+
+--------------------------------------------------------
+HERO (primeira dobra)
+--------------------------------------------------------
+[Tag acima do título]
+A construtora do litoral norte de Alagoas
+
+[H1]
+Projetando ideias, concretizando excelência.
+
+[Subtítulo]
+Somos a Ergo Construtora: construção civil, reformas e projetos arquitetônicos em Maragogi e em toda a Costa dos Corais, do primeiro traço no papel à última demão de tinta.
+
+[CTA primário - botão]
+Fale com a Ergo agora no WhatsApp
+
+[CTA secundário - texto/link]
+Ver obras em andamento →
+
+[Prova social logo abaixo do hero]
+⭐ 5,0 de avaliação no Google · Presente em Maragogi e região · Participação na CASACOR PE · Obras simultâneas em execução no litoral de AL
+
+--------------------------------------------------------
+BLOCO 1 — DOR / PROMESSA
+--------------------------------------------------------
+[H2] Construir ou reformar em Maragogi não precisa ser um problema
+
+Atraso de obra, orçamento estourado, projeto que não sai do papel, mão de obra sem acompanhamento técnico. Se você já ouviu (ou viveu) alguma dessas histórias, sabe do que estamos falando.
+
+A Ergo Construtora nasceu para resolver exatamente isso: entregar obras com prazo, orçamento e qualidade combinados desde o início — com engenharia, arquitetura e execução sob o mesmo teto, sem terceirizar o que realmente importa: o seu projeto.
+
+--------------------------------------------------------
+BLOCO 2 — O QUE FAZEMOS (resumo de serviços, com link para página de Serviços)
+--------------------------------------------------------
+[H2] Do projeto à chave na mão, tudo em um só lugar
+
+[Ícone] Construção civil
+Obras residenciais e comerciais do alicerce ao acabamento, com execução própria e sem retrabalho.
+
+[Ícone] Reformas
+Ampliação, reforma completa ou pontual, sem surpresas no orçamento.
+
+[Ícone] Projeto de arquitetura e interiores
+Projetos assinados, funcionais e adaptados ao clima e ao estilo de vida do litoral alagoano.
+
+[Ícone] Projeto estrutural e hidrossanitário
+Engenharia que garante segurança, durabilidade e economia na obra.
+
+[Ícone] Pavimentação e locação de equipamentos
+Infraestrutura completa para o seu terreno, condomínio ou empreendimento.
+
+[CTA] Conheça todos os nossos serviços →
+
+--------------------------------------------------------
+BLOCO 3 — POR QUE MARAGOGI / POR QUE AGORA (gatilho de oportunidade + autoridade local)
+--------------------------------------------------------
+[H2] O litoral norte de Alagoas nunca esteve tão valorizado
+
+Maragogi vive um dos melhores momentos da sua história: chegada do Aeroporto Costa dos Corais, duplicação da AL-101 Norte e uma onda de investimento imobiliário e turístico que já soma dezenas de milhões de reais em novos empreendimentos na região.
+
+Quem constrói agora — seja para morar, veranear ou investir — está construindo no momento certo, no lugar certo. E ter uma construtora local, que conhece o solo, o clima e a burocracia da região, faz toda a diferença no resultado final.
+
+--------------------------------------------------------
+BLOCO 4 — PROVA SOCIAL / DIFERENCIAIS
+--------------------------------------------------------
+[H2] Por que escolher a Ergo Construtora
+
+✔ Execução própria, sem retrabalho — "Projeto sem erro" é o nosso padrão de obra
+✔ Equipe técnica e comercial dedicada (fale direto com quem decide, sem intermediários)
+✔ Presença ativa em várias obras simultâneas na região — não é discurso, é rotina
+✔ Participação em eventos de referência do setor, como a CASACOR PE
+✔ Avaliação máxima (5,0) de clientes no Google
+✔ Atendimento local, em Barra Grande, Maragogi - AL
+
+--------------------------------------------------------
+BLOCO 5 — PROJETOS EM DESTAQUE (com link para página de Projetos)
+--------------------------------------------------------
+[H2] Alguns projetos que já ganharam vida com a Ergo
+
+[Galeria/preview de cards]
+Casa Serena · Chalé · Casa Poente · Casa Villa III · Casa MC · Delicatessen
+
+[CTA] Ver todos os projetos →
+
+--------------------------------------------------------
+BLOCO 6 — CTA FINAL DA HOME
+--------------------------------------------------------
+[H2] Seu projeto começa com uma conversa
+
+Conte pra gente o que você quer construir ou reformar em Maragogi e região. Em poucos minutos, nosso time comercial te responde no WhatsApp com os próximos passos.
+
+[Botão] Quero falar com a Ergo agora
+
+--------------------------------------------------------
+FAQ da Home (bom para SEO com Schema FAQPage)
+--------------------------------------------------------
+[H3] A Ergo Construtora atende só Maragogi?
+Nossa base é em Barra Grande, Maragogi - AL, e atuamos em toda a região do litoral norte de Alagoas / Costa dos Corais, atendendo moradores locais e investidores de fora do estado.
+
+[H3] Vocês fazem só construção nova ou também reforma?
+Fazemos os dois: construção civil do zero e reforma (pontual ou completa), além de projetos de arquitetura, interiores, estrutural e hidrossanitário.
+
+[H3] Como peço um orçamento?
+É só chamar no WhatsApp pelo botão no site ou no Instagram @ergoconstrutora que nosso time comercial te atende diretamente.
+
+
+===================================================================
+2. SOBRE NÓS
+===================================================================
+
+SEO da página
+--------------
+Meta title: Sobre a Ergo Construtora | Construção Civil em Maragogi - AL
+Meta description: Conheça a Ergo Construtora, empresa de construção civil e arquitetura sediada em Maragogi/AL, presente em obras no litoral norte de Alagoas.
+H1: A construtora que projeta ideias e concretiza excelência em Maragogi
+
+--------------------------------------------------------
+BLOCO 1 — QUEM SOMOS
+--------------------------------------------------------
+[H2] Quem é a Ergo Construtora
+
+A Ergo Construtora é uma empresa de construção civil e projetos arquitetônicos com sede em Barra Grande, Maragogi - Alagoas. Trabalhamos para transformar terrenos e ideias em construções sólidas, funcionais e bonitas — do projeto no papel à obra entregue.
+
+Nosso nome carrega o propósito da marca: "ergo" remete a erguer, construir, dar forma. É exatamente isso que fazemos todos os dias: erguemos casas, projetos e a confiança de quem investe no litoral de Alagoas.
+
+[Nota de transparência para o cliente completar/validar]
+(Espaço reservado para história detalhada da empresa, ano de fundação e motivação dos sócios — sugerimos completar com um parágrafo pessoal, contando como e por que a Ergo nasceu em Maragogi.)
+
+--------------------------------------------------------
+BLOCO 2 — MISSÃO, VISÃO E VALORES
+--------------------------------------------------------
+[H2] Missão, visão e valores
+
+Missão
+Entregar obras e projetos com qualidade técnica, transparência e cumprimento de prazo, elevando o padrão da construção civil no litoral norte de Alagoas.
+
+Visão
+Ser reconhecida como a construtora de referência de Maragogi e região, para moradores locais e para investidores de todo o Brasil que escolhem construir na Costa dos Corais.
+
+Valores
+- Excelência técnica em cada etapa da obra
+- Transparência com o cliente, do orçamento à entrega
+- Compromisso com prazo e "execução sem retrabalho"
+- Valorização da equipe e da mão de obra local
+- Respeito ao litoral e ao entorno onde construímos
+
+[Nota] (Missão, visão e valores acima foram redigidos com base no posicionamento já comunicado pela Ergo nas redes sociais - "Projetando ideias, concretizando excelência" e "Projeto sem erro, execução sem retrabalho". Recomendamos validar/ajustar o texto final com os sócios da empresa.)
+
+--------------------------------------------------------
+BLOCO 3 — O QUE NOS DIFERENCIA
+--------------------------------------------------------
+[H2] O que nos diferencia
+
+Engenharia e arquitetura sob o mesmo teto
+Do projeto estrutural ao projeto de interiores, cuidamos de cada detalhe técnico para que nada saia errado na hora de construir.
+
+Presença ativa nas obras
+Não entregamos a obra para "terceiros tocarem". Acompanhamos de perto cada etapa, do lançamento da fundação ao acabamento final.
+
+Reconhecimento no setor
+Estivemos presentes na CASACOR PE, uma das mostras de arquitetura e decoração mais respeitadas do país — em parceria com arquitetos convidados.
+
+Time comercial acessível
+Falar com a Ergo é simples: você conversa direto com quem entende do seu projeto, sem precisar repetir a mesma informação dez vezes para dez pessoas diferentes.
+
+--------------------------------------------------------
+BLOCO 4 — ONDE ESTAMOS
+--------------------------------------------------------
+[H2] Onde estamos
+
+Estamos localizados na Rua Dourado, em Barra Grande, Maragogi - AL, e atendemos clientes de toda a região da Costa dos Corais e do litoral norte de Alagoas — moradores locais, quem está se mudando para a região e investidores de outros estados.
+
+[CTA] Fale com a gente e conheça nossos projetos →
+
+
+===================================================================
+3. SERVIÇOS
+===================================================================
+
+SEO da página
+--------------
+Meta title: Serviços de Construção Civil e Reforma em Maragogi | Ergo Construtora
+Meta description: Construção civil, reforma, pavimentação, projeto de arquitetura, estrutural, hidrossanitário e de interiores em Maragogi e litoral de Alagoas.
+H1: Serviços de construção civil e arquitetura em Maragogi
+
+--------------------------------------------------------
+INTRO
+--------------------------------------------------------
+Da fundação ao acabamento, do projeto no papel à execução em campo: a Ergo Construtora reúne, em um só lugar, todos os serviços que o seu projeto precisa em Maragogi e no litoral norte de Alagoas.
+
+--------------------------------------------------------
+SERVIÇO 1
+--------------------------------------------------------
+[H2] Construção civil em Maragogi
+
+Executamos obras residenciais e comerciais do início ao fim, com equipe própria e acompanhamento técnico em cada etapa — fundação, alvenaria, instalações e acabamento. É o serviço-base da Ergo: transformar um terreno em Barra Grande, Maragogi ou região em uma construção sólida, segura e dentro do prazo combinado.
+
+Ideal para quem quer: construir a casa própria, uma casa de veraneio no litoral ou um imóvel para investimento.
+
+--------------------------------------------------------
+SERVIÇO 2
+--------------------------------------------------------
+[H2] Reforma em Maragogi e região
+
+Reformar pode ser tão delicado quanto construir do zero — e às vezes até mais. Cuidamos de reformas pontuais (um cômodo, uma fachada, uma área externa) e reformas completas, sempre com planejamento prévio para evitar imprevistos de orçamento e prazo.
+
+Ideal para quem quer: valorizar um imóvel já existente, adaptar a casa a um novo uso ou preparar um imóvel para venda/aluguel de temporada.
+
+--------------------------------------------------------
+SERVIÇO 3
+--------------------------------------------------------
+[H2] Projeto de arquitetura
+
+Criamos projetos arquitetônicos pensados para o clima, a luz e o estilo de vida do litoral alagoano — casas que aproveitam a brisa, a vista e o espaço externo, sem abrir mão de personalidade e funcionalidade.
+
+Ideal para quem quer: sair do "projeto padrão" e ter uma casa com identidade própria, adaptada ao terreno e à rotina da família.
+
+--------------------------------------------------------
+SERVIÇO 4
+--------------------------------------------------------
+[H2] Projeto de interiores
+
+Depois da estrutura pronta, cuidamos também da ambientação interna: layout, iluminação, revestimentos e acabamentos que traduzem o estilo do morador em cada cômodo.
+
+Ideal para quem quer: entregar a casa pronta para morar, sem precisar contratar outra empresa só para os ambientes internos.
+
+--------------------------------------------------------
+SERVIÇO 5
+--------------------------------------------------------
+[H2] Projeto estrutural
+
+Calculamos e dimensionamos a estrutura da obra (fundação, vigas, pilares e lajes) com segurança técnica, evitando patologias futuras e retrabalho — a base invisível que garante que tudo o resto fique de pé com segurança por décadas.
+
+--------------------------------------------------------
+SERVIÇO 6
+--------------------------------------------------------
+[H2] Projeto hidrossanitário
+
+Planejamos toda a rede de água e esgoto da obra, prevenindo problemas comuns como infiltração, mau cheiro e retrabalho de acabamento — um projeto técnico que se paga em economia e tranquilidade ao longo dos anos.
+
+--------------------------------------------------------
+SERVIÇO 7
+--------------------------------------------------------
+[H2] Pavimentação
+
+Executamos serviços de pavimentação para terrenos, acessos, áreas externas e condomínios, dando acabamento e durabilidade a ruas, calçadas e áreas de circulação.
+
+--------------------------------------------------------
+SERVIÇO 8
+--------------------------------------------------------
+[H2] Locação de equipamentos
+
+Disponibilizamos equipamentos para obras de terceiros ou para complementar sua própria obra, com suporte técnico da nossa equipe.
+
+--------------------------------------------------------
+NOTA SOBRE PREÇOS (para o cliente completar)
+--------------------------------------------------------
+(Não encontramos tabela de preços pública da Ergo Construtora em nenhum canal - Google Maps, Instagram ou Linktree. Recomendamos incluir aqui, se possível, uma faixa de valor por m² ou por tipo de serviço, ou manter a chamada abaixo, que é a prática mais comum e eficaz para construtoras: orçamento sob consulta, pois cada obra tem escopo diferente.)
+
+[H2] Cada obra é única — e o seu orçamento também é
+Os valores de construção, reforma ou projeto variam de acordo com o tamanho, o terreno e o nível de acabamento desejado. Fale com a gente e receba uma proposta personalizada para o seu projeto em Maragogi ou região.
+
+[CTA] Solicitar orçamento pelo WhatsApp →
+
+
+===================================================================
+4. PROJETOS
+===================================================================
+
+SEO da página
+--------------
+Meta title: Projetos e Obras da Ergo Construtora em Maragogi - AL
+Meta description: Veja projetos e obras executados pela Ergo Construtora em Maragogi e no litoral de Alagoas: casas, chalés e reformas de alto padrão.
+H1: Projetos e obras da Ergo Construtora em Maragogi
+
+--------------------------------------------------------
+INTRO
+--------------------------------------------------------
+Cada projeto conta uma história diferente — de um terreno vazio em Barra Grande a uma casa pronta para receber uma família ou um investimento. Conheça alguns dos projetos e obras já assinados pela Ergo Construtora.
+
+--------------------------------------------------------
+GRADE DE PROJETOS (cards com foto + nome + breve descrição + CTA "Ver detalhes")
+--------------------------------------------------------
+[H2] Casa Serena
+Projeto residencial que une conforto e simplicidade, com ambientes integrados e acabamento pensado para o dia a dia no litoral.
+
+[H2] Chalé
+Um projeto compacto e aconchegante, ideal para quem busca uma segunda casa de temporada em Maragogi.
+
+[H2] Casa Poente
+Projeto com vista privilegiada, aproveitando a luz natural e o pôr do sol como parte da experiência da casa.
+
+[H2] Casa Villa III
+Residência de alto padrão, com detalhes arquitetônicos personalizados e execução impecável do início ao fim.
+
+[H2] Casa MC
+Obra entregue com atenção total ao acabamento — "cada detalhe da fundação executado com a precisão e a qualidade que só a Ergo Construtora entrega".
+
+[H2] Delicatessen
+Projeto comercial que mostra a versatilidade da Ergo também fora do segmento puramente residencial.
+
+--------------------------------------------------------
+BLOCO — OBRAS EM ANDAMENTO (autoridade + prova social)
+--------------------------------------------------------
+[H2] Obras em andamento agora no litoral de Alagoas
+
+Neste momento, a Ergo Construtora mantém diversas obras simultâneas em execução na região — a prova de que projeto sem erro e execução sem retrabalho não são só um slogan, são a nossa rotina. Acompanhe o dia a dia das obras no nosso Instagram @ergoconstrutora.
+
+[CTA] Seguir a Ergo no Instagram →
+
+--------------------------------------------------------
+BLOCO — CASACOR PE (autoridade de mercado)
+--------------------------------------------------------
+[H2] Presença em referências do setor
+
+A Ergo Construtora já esteve presente na CASACOR PE, uma das principais mostras de arquitetura, decoração e paisagismo do Brasil, em colaboração com arquitetos convidados — reforçando nosso compromisso com qualidade e boas referências de mercado.
+
+--------------------------------------------------------
+CTA FINAL DA PÁGINA
+--------------------------------------------------------
+[H2] Quer ver o seu projeto aqui?
+Fale com a gente e conte o que você quer construir ou reformar em Maragogi e região.
+
+[Botão] Iniciar meu projeto com a Ergo
+
+
+===================================================================
+5. CONTATO
+===================================================================
+
+SEO da página
+--------------
+Meta title: Contato | Ergo Construtora em Maragogi - AL
+Meta description: Fale com a Ergo Construtora em Maragogi - AL. WhatsApp, Instagram e endereço para orçamento de construção civil, reforma e projetos.
+H1: Fale com a Ergo Construtora em Maragogi
+
+--------------------------------------------------------
+INTRO
+--------------------------------------------------------
+Seu próximo projeto pode começar agora. Escolha o canal mais fácil pra você e fale direto com o nosso time.
+
+--------------------------------------------------------
+CANAIS DE CONTATO
+--------------------------------------------------------
+[H2] Canais de atendimento
+
+WhatsApp comercial/administrativo
+📱 (82) 98883-9919
+[Botão] Chamar no WhatsApp
+
+WhatsApp arquitetura
+📱 (82) 8878-1496
+[Botão] Falar sobre projetos de arquitetura
+
+Instagram
+@ergoconstrutora
+[Botão] Seguir no Instagram
+
+Endereço
+Rua Dourado - Barra Grande, Maragogi - AL, 57955-000
+[Botão] Ver no Google Maps
+
+--------------------------------------------------------
+HORÁRIO DE FUNCIONAMENTO
+--------------------------------------------------------
+[H2] Horário de atendimento
+Segunda a sexta: 08h às 17h
+Sábado e domingo: fechado
+(atendimento via WhatsApp pode responder fora desse horário, conforme disponibilidade da equipe)
+
+--------------------------------------------------------
+FORMULÁRIO DE CONTATO (campos sugeridos)
+--------------------------------------------------------
+[H2] Peça seu orçamento
+
+Nome completo
+Telefone / WhatsApp
+E-mail
+Tipo de projeto (Construção nova / Reforma / Projeto de arquitetura / Projeto de interiores / Outro)
+Cidade do terreno ou imóvel
+Mensagem (conte um pouco sobre o que você quer construir)
+
+[Botão] Enviar e falar com a Ergo
+
+--------------------------------------------------------
+MAPA
+--------------------------------------------------------
+[Incorporar mapa do Google Maps com o endereço em Barra Grande, Maragogi - AL]
+
+--------------------------------------------------------
+CTA FINAL / REFORÇO DE CONFIANÇA
+--------------------------------------------------------
+[H2] Por que marcar uma conversa com a Ergo agora
+- Resposta rápida pelo WhatsApp
+- Atendimento local, direto com quem entende do seu projeto em Maragogi
+- Sem compromisso: você recebe orientação antes de decidir
+
+[Botão] Quero falar com a Ergo agora
+
+
+===================================================================
+6. ESQUELETO VISUAL E TÉCNICO DO SITE (DESIGN, LIQUID GLASS E ANIMAÇÕES)
+===================================================================
+Pesquisa de referência: tendências de design 2026 (glassmorphism / liquid glass, sites premiados de
+arquitetura no Awwwards, boas práticas de microinterações e animação de scroll). Objetivo: visual
+sério e premium, com efeitos modernos usados com moderação — sem "papagaiada" (sem exagero, sem
+poluição visual, sem animação sem propósito).
+
+--------------------------------------------------------
+6.1 PRINCÍPIOS DE DESIGN (o que usar, e o porquê)
+--------------------------------------------------------
+- Glassmorphism / "liquid glass" com moderação: usar em 2 a 3 elementos estratégicos no máximo —
+  nunca na interface inteira. Indicado para: header fixo ao rolar a página, cards de destaque
+  (diferenciais, serviços em resumo) e o menu mobile. Efeito: fundo levemente translúcido (10-20%
+  de opacidade), blur de 16-24px, borda de 1px em branco com baixa opacidade, sombra suave —
+  transmite sofisticação sem parecer "efeito de app".
+- Liquid glass "de verdade" (efeito que reage sutilmente ao movimento/scroll, mudando levemente o
+  blur/opacidade) fica melhor em 1 único elemento de destaque, como o header ou o card de CTA
+  flutuante — usar em excesso cansa e pesa a performance em celular.
+- Sobriedade acima de tudo: por ser site institucional de construtora (segmento que vende
+  confiança e solidez), a estética deve pesar para o lado "arquitetura premiada" — fotografia em
+  tela cheia, tipografia bem calibrada, muito espaço em branco — e não para o lado "aplicativo de
+  tecnologia". Vidro e blur são tempero, a fotografia da obra é o prato principal.
+- Consistência: mesmo raio de borda, mesma família de sombra e mesmo tempo de transição (ex.:
+  sempre 300-400ms) em todos os elementos "vidro" do site.
+
+--------------------------------------------------------
+6.2 ANIMAÇÕES RECOMENDADAS (sutis, com propósito, sem exagero)
+--------------------------------------------------------
+1. Scroll reveal (fade + leve deslocamento vertical, 8-16px, 400-600ms, easing suave tipo
+   ease-out): usar para títulos de seção, blocos de texto e cards ao entrarem na tela. É o efeito
+   mais usado em sites premiados e o que gera sensação de "produto caro" com menor custo de
+   performance.
+2. Parallax discreto: apenas na imagem de fundo do Hero da Home (deslocamento leve, 5-10% da
+   altura da imagem, nunca mais que isso) — dá profundidade sem distrair.
+3. Hover em cards e botões: leve elevação (translateY -2 a -4px) + sombra mais forte + mudança sutil
+   de cor/brilho, 150-200ms. Sinaliza "isso é clicável" sem chamar atenção demais.
+4. Contadores animados: números como "5,0 de avaliação", "8 obras em execução" podem subir de 0
+   até o valor final quando entram na tela — reforça prova social de forma elegante.
+5. Header com efeito glass ao rolar: no topo da página o header é transparente sobre o hero; ao
+   rolar, ele "gruda" (sticky) e ganha o efeito vidro (blur + leve cor de fundo) — transição suave
+   de 300ms.
+6. Menu mobile em vidro: ao abrir, painel com fundo desfocado (glass) e itens que entram com leve
+   fade + deslocamento, um após o outro (stagger de 40-60ms entre itens).
+7. Transição de página / carregamento: fade simples entre páginas (200-300ms), sem "loaders"
+   longos ou splash screens — o usuário quer ver o conteúdo rápido, principalmente no celular.
+8. Micro-animação no formulário de contato: campo que "acende" a borda ao focar, e um check
+   suave de confirmação ao enviar — evita a sensação de formulário "morto".
+
+O QUE EVITAR (a "papagaiada" a não fazer):
+- Textos digitando letra por letra (typewriter effect) ou piscando
+- Autoplay de vídeo com som, ou vídeos pesados sem otimização
+- Excesso de partículas, brilhos ou gradientes animados no fundo
+- Parallax exagerado (mais de 15-20% de deslocamento) que causa "enjoo" de scroll
+- Animação em todo elemento da página ao mesmo tempo (poluição visual e queda de performance)
+- Loaders/splash screens artificiais só para "parecer high-tech"
+- Cursor customizado complexo, confetes, ou qualquer efeito puramente decorativo sem relação com
+  o conteúdo de construção civil
+
+--------------------------------------------------------
+6.3 ESQUELETO DE PÁGINA (WIREFRAME EM TEXTO) — usar em todas as páginas internas
+--------------------------------------------------------
+[Header - fixo, transparente no topo / vira "vidro" ao rolar]
+Logo Ergo Construtora | Home · Sobre Nós · Serviços · Projetos · Contato | Botão CTA "WhatsApp" (vidro, destaque)
+
+[Hero da página - 80-90vh]
+Imagem de fundo em tela cheia (foto de obra/projeto de alta qualidade) com overlay escuro sutil
+  (para legibilidade do texto)
+Tag pequena acima do título (ex.: "A construtora do litoral norte de Alagoas")
+H1 com animação de fade + leve subida ao carregar
+Subtítulo, 1-2 linhas
+Botão CTA primário (sólido) + link secundário (texto sublinhado)
+Indicador de scroll sutil (seta ou linha animada) no rodapé do hero
+
+[Faixa de prova social logo abaixo do hero]
+Cards ou linha horizontal com selo de avaliação, "obras em execução", "CASACOR PE" — ícones simples,
+  sem fotos, fundo neutro ou com leve efeito glass
+
+[Seções de conteúdo — alternadas]
+Cada seção com: tag pequena + H2 + texto curto + (imagem ou grade de cards ao lado/abaixo)
+Alternar fundo entre branco/areia claro e um tom mais escuro (ex.: verde petróleo, cor de marca)
+  para criar ritmo visual ao rolar a página
+Cada bloco entra com scroll reveal (fade + leve subida), nunca todos ao mesmo tempo
+
+[Grade de serviços/projetos]
+Cards com: imagem, título, descrição curta, leve hover (elevação + sombra)
+Em telas grandes: 3 colunas; em mobile: 1 coluna com scroll horizontal opcional para "Projetos"
+
+[CTA de seção]
+Bloco com fundo de cor sólida ou vidro sobre imagem, título curto + botão — usado 2-3 vezes ao
+  longo da página para captar quem não quer rolar até o fim
+
+[Footer]
+Logo + slogan curto | Links rápidos (mesmas páginas do menu) | Contato (telefone/WhatsApp,
+  Instagram, endereço) | Selo "atende Maragogi e litoral norte de Alagoas" | Direitos autorais
+
+[Botão flutuante fixo]
+Ícone do WhatsApp, canto inferior direito, com leve pulsação sutil (não piscante) a cada alguns
+  segundos para chamar atenção sem incomodar
+
+--------------------------------------------------------
+6.4 PALETA E TIPOGRAFIA SUGERIDAS (alinhadas à marca já usada no Instagram)
+--------------------------------------------------------
+Cores base: verde petróleo/escuro (cor do logo atual) + areia/branco-osso (remete à praia) +
+  laranja queimado como cor de destaque/CTA (mesma cor usada nos destaques "Nossos Serviços" do
+  Instagram da Ergo) — mantém consistência de marca entre redes sociais e site.
+Vidro: branco a 10-15% de opacidade com blur, usado sobre fotos escuras ou sobre o verde da marca.
+Tipografia: uma fonte serifada ou com personalidade para títulos (transmite solidez/arquitetura) +
+  uma sans-serif limpa para textos e botões (legibilidade). Ex.: título em fonte com peso mais
+  forte, corpo de texto em fonte neutra tipo Inter/Work Sans.
+
+--------------------------------------------------------
+6.5 STACK TÉCNICO SUGERIDO (para o desenvolvedor ou ferramenta no-code)
+--------------------------------------------------------
+- Desenvolvimento sob medida: Next.js + Tailwind CSS (para o efeito vidro/blur) + Framer Motion
+  (para scroll reveal, hover e transições) — combinação leve, rápida e muito usada em sites
+  premiados de arquitetura/construção.
+- Alternativa no-code: Webflow (tem suporte nativo a blur/glass, interações de scroll e é fácil de
+  manter pelo próprio time da Ergo depois de pronto).
+- Otimização de imagem obrigatória (formato WebP/AVIF, lazy loading) para as fotos de obra em tela
+  cheia não pesarem o carregamento em celular.
+- Testar todas as animações em conexão 4G e em pelo menos um celular intermediário antes de
+  publicar — no litoral, a conexão do usuário nem sempre é a ideal.
+
+--------------------------------------------------------
+6.6 PROMPT PRONTO (para usar em ferramenta de geração de site com IA / briefing de desenvolvedor)
+--------------------------------------------------------
+"Crie um site institucional para uma construtora premium chamada Ergo Construtora, sediada em
+Maragogi, Alagoas. Estilo visual: sério, sofisticado e confiável, no espírito de sites premiados de
+arquitetura, NÃO no espírito de aplicativo de tecnologia. Use fotografia em tela cheia como
+protagonista visual. Aplique efeito de vidro (glassmorphism/liquid glass) apenas no header fixo ao
+rolar a página, no menu mobile e em 1-2 cards de destaque — nunca na interface inteira. Use blur de
+16-24px, opacidade de 10-20%, bordas finas e sombras suaves. Anime a entrada de títulos, textos e
+cards com fade + leve deslocamento vertical ao rolar a página (scroll reveal), sempre com
+transições de 300-600ms e easing suave — nunca todos os elementos ao mesmo tempo. Use parallax
+discreto apenas na imagem do Hero da Home. Adicione hover sutil (leve elevação + sombra) em botões
+e cards. Evite qualquer animação decorativa sem propósito (typewriter, partículas, confete,
+loaders artificiais, autoplay de vídeo com som). Estrutura: Header fixo com logo e menu (Home,
+Sobre Nós, Serviços, Projetos, Contato) e botão de WhatsApp em destaque; Hero com imagem de obra em
+tela cheia, overlay escuro sutil, título, subtítulo e CTA; faixa de prova social (avaliação 5,0 no
+Google, obras em execução, participação na CASACOR PE); seções alternadas de conteúdo com fundo
+claro/escuro alternado; grade de cards para serviços e projetos com hover leve; blocos de CTA
+intermediários; footer completo com contato, redes sociais e endereço; botão flutuante de WhatsApp
+com leve pulsação. Paleta: verde petróleo escuro (cor de marca), areia/branco-osso e laranja
+queimado como destaque. Tipografia: uma fonte com personalidade para títulos e uma sans-serif
+neutra para textos. Performance mobile-first é prioridade: otimizar imagens, evitar excesso de
+efeitos simultâneos e testar em conexão 4G."
+
+
+===================================================================
+7. OBSERVAÇÕES FINAIS PARA IMPLEMENTAÇÃO
+===================================================================
+- Todos os textos entre parênteses marcados como "(Nota...)" são recomendações/observações para validação com o cliente antes de publicar — não são copy final de página.
+- Preços de serviços não foram encontrados publicamente; a copy usa a estratégia de "orçamento sob consulta", comum e eficaz no setor, mas pode ser substituída caso a Ergo forneça uma tabela de valores.
+- Recomenda-se produzir 3 a 5 fotos de alta qualidade por projeto (Casa Serena, Chalé, Casa Poente, Casa Villa III, Casa MC, Delicatessen) para a página de Projetos, já que isso impacta diretamente tanto a conversão quanto o SEO de imagens.
+- Para reforçar ainda mais o "aparecer sempre nas buscas", recomenda-se manter o Google Meu Negócio ativo com posts semanais e responder à avaliação existente (Claudia Azevedo) e às futuras avaliações — isso é considerado sinal de relevância pelo Google para buscas locais.
+- O esqueleto visual da seção 6 é um guia de direção para design/desenvolvimento; recomenda-se validar a paleta exata e a tipografia com um designer, usando como base as cores já visíveis na identidade visual do Instagram da Ergo (verde escuro do logo + laranja de destaque).

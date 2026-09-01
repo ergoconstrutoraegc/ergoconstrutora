@@ -1,0 +1,24 @@
+# ── macOS ─────────────────────────────────────────────
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# ── Material de origem (não versionado) ───────────────
+# Arquivos brutos usados só para gerar os assets do site.
+# São grandes demais para o Git; ficam no drive/backup do cliente.
+# As versões otimizadas já estão em site/assets/img e site/assets/favicon.
+/equipe/
+/projetos/
+/logo/
+/imagens/
+/FigmaSite/
+/videoDrones/
+*.MP4
+*.mp4
+*.mov
+*.MOV
+Firefly_*.png
+
+# ── Dependências / build ──────────────────────────────
+node_modules/

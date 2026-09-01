@@ -1,0 +1,1468 @@
+{
+ "residencia-contemporanea": [
+  {
+   "id": "01",
+   "base": "residencia-contemporanea-01",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "02",
+   "base": "residencia-contemporanea-02",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5126,
+   "h": 3072,
+   "ratio": 1.669
+  },
+  {
+   "id": "03",
+   "base": "residencia-contemporanea-03",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "04",
+   "base": "residencia-contemporanea-04",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "05",
+   "base": "residencia-contemporanea-05",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "06",
+   "base": "residencia-contemporanea-06",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "07",
+   "base": "residencia-contemporanea-07",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "08",
+   "base": "residencia-contemporanea-08",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "09",
+   "base": "residencia-contemporanea-09",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "10",
+   "base": "residencia-contemporanea-10",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "11",
+   "base": "residencia-contemporanea-11",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "12",
+   "base": "residencia-contemporanea-12",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1281,
+   "h": 768,
+   "ratio": 1.668
+  },
+  {
+   "id": "13",
+   "base": "residencia-contemporanea-13",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1258,
+   "h": 768,
+   "ratio": 1.638
+  },
+  {
+   "id": "14",
+   "base": "residencia-contemporanea-14",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1262,
+   "h": 768,
+   "ratio": 1.643
+  },
+  {
+   "id": "15",
+   "base": "residencia-contemporanea-15",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1196,
+   "h": 768,
+   "ratio": 1.557
+  },
+  {
+   "id": "16",
+   "base": "residencia-contemporanea-16",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "17",
+   "base": "residencia-contemporanea-17",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "18",
+   "base": "residencia-contemporanea-18",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "19",
+   "base": "residencia-contemporanea-19",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "20",
+   "base": "residencia-contemporanea-20",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "21",
+   "base": "residencia-contemporanea-21",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "22",
+   "base": "residencia-contemporanea-22",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "23",
+   "base": "residencia-contemporanea-23",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "24",
+   "base": "residencia-contemporanea-24",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1152,
+   "h": 687,
+   "ratio": 1.677
+  },
+  {
+   "id": "25",
+   "base": "residencia-contemporanea-25",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "26",
+   "base": "residencia-contemporanea-26",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "27",
+   "base": "residencia-contemporanea-27",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "28",
+   "base": "residencia-contemporanea-28",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "29",
+   "base": "residencia-contemporanea-29",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1351,
+   "h": 768,
+   "ratio": 1.759
+  },
+  {
+   "id": "30",
+   "base": "residencia-contemporanea-30",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "31",
+   "base": "residencia-contemporanea-31",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1266,
+   "h": 768,
+   "ratio": 1.648
+  },
+  {
+   "id": "32",
+   "base": "residencia-contemporanea-32",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "33",
+   "base": "residencia-contemporanea-33",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "34",
+   "base": "residencia-contemporanea-34",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "35",
+   "base": "residencia-contemporanea-35",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "36",
+   "base": "residencia-contemporanea-36",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "37",
+   "base": "residencia-contemporanea-37",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "38",
+   "base": "residencia-contemporanea-38",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "39",
+   "base": "residencia-contemporanea-39",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1312,
+   "h": 715,
+   "ratio": 1.835
+  },
+  {
+   "id": "40",
+   "base": "residencia-contemporanea-40",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "41",
+   "base": "residencia-contemporanea-41",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "42",
+   "base": "residencia-contemporanea-42",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1377,
+   "h": 938,
+   "ratio": 1.468
+  },
+  {
+   "id": "43",
+   "base": "residencia-contemporanea-43",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1558,
+   "h": 941,
+   "ratio": 1.656
+  },
+  {
+   "id": "44",
+   "base": "residencia-contemporanea-44",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "45",
+   "base": "residencia-contemporanea-45",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "46",
+   "base": "residencia-contemporanea-46",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "47",
+   "base": "residencia-contemporanea-47",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "48",
+   "base": "residencia-contemporanea-48",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "49",
+   "base": "residencia-contemporanea-49",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  }
+ ],
+ "casa-de-praia": [
+  {
+   "id": "01",
+   "base": "casa-de-praia-01",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "02",
+   "base": "casa-de-praia-02",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1069,
+   "h": 768,
+   "ratio": 1.392
+  },
+  {
+   "id": "03",
+   "base": "casa-de-praia-03",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "04",
+   "base": "casa-de-praia-04",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "05",
+   "base": "casa-de-praia-05",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "06",
+   "base": "casa-de-praia-06",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "07",
+   "base": "casa-de-praia-07",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1210,
+   "h": 768,
+   "ratio": 1.576
+  },
+  {
+   "id": "08",
+   "base": "casa-de-praia-08",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "09",
+   "base": "casa-de-praia-09",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "10",
+   "base": "casa-de-praia-10",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "11",
+   "base": "casa-de-praia-11",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "12",
+   "base": "casa-de-praia-12",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "13",
+   "base": "casa-de-praia-13",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1029,
+   "h": 768,
+   "ratio": 1.34
+  },
+  {
+   "id": "14",
+   "base": "casa-de-praia-14",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "15",
+   "base": "casa-de-praia-15",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "16",
+   "base": "casa-de-praia-16",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "17",
+   "base": "casa-de-praia-17",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "18",
+   "base": "casa-de-praia-18",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "19",
+   "base": "casa-de-praia-19",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "20",
+   "base": "casa-de-praia-20",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "21",
+   "base": "casa-de-praia-21",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "22",
+   "base": "casa-de-praia-22",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "23",
+   "base": "casa-de-praia-23",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "24",
+   "base": "casa-de-praia-24",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5504,
+   "h": 3072,
+   "ratio": 1.792
+  },
+  {
+   "id": "25",
+   "base": "casa-de-praia-25",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "26",
+   "base": "casa-de-praia-26",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "27",
+   "base": "casa-de-praia-27",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "28",
+   "base": "casa-de-praia-28",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "29",
+   "base": "casa-de-praia-29",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "30",
+   "base": "casa-de-praia-30",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "31",
+   "base": "casa-de-praia-31",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "32",
+   "base": "casa-de-praia-32",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  },
+  {
+   "id": "33",
+   "base": "casa-de-praia-33",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1376,
+   "h": 768,
+   "ratio": 1.792
+  }
+ ],
+ "delicatessen": [
+  {
+   "id": "01",
+   "base": "delicatessen-01",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "02",
+   "base": "delicatessen-02",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "03",
+   "base": "delicatessen-03",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "04",
+   "base": "delicatessen-04",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "05",
+   "base": "delicatessen-05",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "06",
+   "base": "delicatessen-06",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "07",
+   "base": "delicatessen-07",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "08",
+   "base": "delicatessen-08",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "09",
+   "base": "delicatessen-09",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "10",
+   "base": "delicatessen-10",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "11",
+   "base": "delicatessen-11",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "12",
+   "base": "delicatessen-12",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  },
+  {
+   "id": "13",
+   "base": "delicatessen-13",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1799,
+   "h": 1012,
+   "ratio": 1.778
+  },
+  {
+   "id": "14",
+   "base": "delicatessen-14",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1799,
+   "h": 1012,
+   "ratio": 1.778
+  },
+  {
+   "id": "15",
+   "base": "delicatessen-15",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1799,
+   "h": 1012,
+   "ratio": 1.778
+  },
+  {
+   "id": "16",
+   "base": "delicatessen-16",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 1800,
+   "h": 1012,
+   "ratio": 1.779
+  }
+ ],
+ "dolce-by-dulce": [
+  {
+   "id": "01",
+   "base": "dolce-by-dulce-01",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 2528,
+   "h": 1696,
+   "ratio": 1.491
+  },
+  {
+   "id": "02",
+   "base": "dolce-by-dulce-02",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 2528,
+   "h": 1696,
+   "ratio": 1.491
+  },
+  {
+   "id": "03",
+   "base": "dolce-by-dulce-03",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 2528,
+   "h": 1696,
+   "ratio": 1.491
+  },
+  {
+   "id": "04",
+   "base": "dolce-by-dulce-04",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 2528,
+   "h": 1696,
+   "ratio": 1.491
+  },
+  {
+   "id": "05",
+   "base": "dolce-by-dulce-05",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 2528,
+   "h": 1696,
+   "ratio": 1.491
+  },
+  {
+   "id": "06",
+   "base": "dolce-by-dulce-06",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  }
+ ],
+ "escritorio-ergo": [
+  {
+   "id": "01",
+   "base": "escritorio-ergo-01",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  },
+  {
+   "id": "02",
+   "base": "escritorio-ergo-02",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  },
+  {
+   "id": "03",
+   "base": "escritorio-ergo-03",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  },
+  {
+   "id": "04",
+   "base": "escritorio-ergo-04",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  },
+  {
+   "id": "05",
+   "base": "escritorio-ergo-05",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  },
+  {
+   "id": "06",
+   "base": "escritorio-ergo-06",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 5056,
+   "h": 3392,
+   "ratio": 1.491
+  }
+ ],
+ "equipe": [
+  {
+   "id": "membro-01",
+   "base": "equipe-membro-01",
+   "sizes": [
+    900,
+    600,
+    400
+   ],
+   "w": 2621,
+   "h": 3494,
+   "ratio": 0.75
+  },
+  {
+   "id": "membro-02",
+   "base": "equipe-membro-02",
+   "sizes": [
+    900,
+    600,
+    400
+   ],
+   "w": 2621,
+   "h": 3494,
+   "ratio": 0.75
+  },
+  {
+   "id": "membro-03",
+   "base": "equipe-membro-03",
+   "sizes": [
+    900,
+    600,
+    400
+   ],
+   "w": 2621,
+   "h": 3494,
+   "ratio": 0.75
+  },
+  {
+   "id": "membro-04",
+   "base": "equipe-membro-04",
+   "sizes": [
+    900,
+    600,
+    400
+   ],
+   "w": 2621,
+   "h": 3494,
+   "ratio": 0.75
+  },
+  {
+   "id": "fundador",
+   "base": "equipe-fundador",
+   "sizes": [
+    1000,
+    700,
+    450
+   ],
+   "w": 3629,
+   "h": 4838,
+   "ratio": 0.75
+  },
+  {
+   "id": "time",
+   "base": "equipe-time",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 6720,
+   "h": 4480,
+   "ratio": 1.5
+  },
+  {
+   "id": "processo",
+   "base": "equipe-processo",
+   "sizes": [
+    1000,
+    700,
+    450
+   ],
+   "w": 4334,
+   "h": 5779,
+   "ratio": 0.75
+  },
+  {
+   "id": "contato",
+   "base": "equipe-contato",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 6720,
+   "h": 4480,
+   "ratio": 1.5
+  },
+  {
+   "id": "ceo",
+   "base": "equipe-ceo",
+   "sizes": [
+    900,
+    600,
+    400
+   ],
+   "w": 2621,
+   "h": 3494,
+   "ratio": 0.75
+  }
+ ],
+ "hero": [
+  {
+   "id": "principal",
+   "base": "hero-principal",
+   "sizes": [
+    2000,
+    1400,
+    900
+   ],
+   "w": 5504,
+   "h": 3072,
+   "ratio": 1.792
+  },
+  {
+   "id": "praia",
+   "base": "praia-costa-dos-corais",
+   "sizes": [
+    1600,
+    1000,
+    600
+   ],
+   "w": 2160,
+   "h": 1485,
+   "ratio": 1.455
+  }
+ ]
+}

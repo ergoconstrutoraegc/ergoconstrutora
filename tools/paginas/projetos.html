@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  {{HEAD_COMMON}}
+  <title>Projetos e Obras da Ergo Construtora em Maragogi - AL</title>
+  <meta name="description" content="Projetos e obras da Ergo Construtora em Maragogi, no litoral norte de Alagoas e na Mata Sul pernambucana: casas de alto padrão e projetos comerciais.">
+  <link rel="canonical" href="{{SITE_URL}}/projetos.html">
+
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="pt_BR">
+  <meta property="og:site_name" content="Ergo Construtora">
+  <meta property="og:title" content="Projetos e Obras da Ergo Construtora em Maragogi - AL">
+  <meta property="og:description" content="Portfólio de obras e projetos da Ergo Construtora no litoral norte de Alagoas e na Mata Sul pernambucana.">
+  <meta property="og:url" content="{{SITE_URL}}/projetos.html">
+  <meta property="og:image" content="{{SITE_URL}}/assets/img/og-ergo-construtora.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{SITE_URL}}/assets/img/og-ergo-construtora.jpg">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "CollectionPage",
+        "name": "Projetos e obras da Ergo Construtora em Maragogi",
+        "url": "{{SITE_URL}}/projetos.html",
+        "about": { "@type": "GeneralContractor", "@id": "{{SITE_URL}}/#organizacao" },
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            { "@type": "ListItem", "position": 1, "name": "Home", "item": "{{SITE_URL}}/" },
+            { "@type": "ListItem", "position": 2, "name": "Projetos", "item": "{{SITE_URL}}/projetos.html" }
+          ]
+        }
+      },
+      {
+        "@type": "ItemList",
+        "name": "Portfólio Ergo Construtora",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Residência Contemporânea", "url": "{{SITE_URL}}/projetos.html#residencia-contemporanea" },
+          { "@type": "ListItem", "position": 2, "name": "Casa de Praia", "url": "{{SITE_URL}}/projetos.html#casa-de-praia" },
+          { "@type": "ListItem", "position": 3, "name": "Delicatessen", "url": "{{SITE_URL}}/projetos.html#delicatessen" },
+          { "@type": "ListItem", "position": 4, "name": "Dolce by Dulce", "url": "{{SITE_URL}}/projetos.html#dolce-by-dulce" },
+          { "@type": "ListItem", "position": 5, "name": "Escritório Ergo", "url": "{{SITE_URL}}/projetos.html#escritorio-ergo" }
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+
+<body>
+  {{SPRITE}}
+  <a class="skip" href="#conteudo">Ir para o conteúdo</a>
+
+  <div class="shell">
+    {{HEADER}}
+
+    <main id="conteudo">
+
+      <section class="hero3 hero3--inner">
+          {{IMG:residencia-contemporanea/02|100vw|Residência de alto padrão construída pela Ergo Construtora em Maragogi - AL|eager class=hero3__bg}}
+
+          <div class="wrap-wide">
+            <nav class="crumbs" aria-label="Você está aqui">
+              <a href="index.html">Home</a> <span>/</span> <span>Projetos</span>
+            </nav>
+            <h1>Portfólio de obras<br>e projetos da Ergo</h1>
+            <p class="hero3__sub">De um terreno vazio em Barra Grande a uma casa pronta para receber uma família ou um investimento. Clique em um projeto para abrir a galeria completa.</p>
+            <div class="hero3__actions">
+              <a class="btn btn--icon" href="https://wa.me/{{WA_COM}}?text=Ol%C3%A1!%20Vi%20os%20projetos%20no%20site%20e%20quero%20iniciar%20o%20meu." target="_blank" rel="noopener">
+                Começar meu projeto <i aria-hidden="true"><svg><use href="#i-arrow"></use></svg></i>
+              </a>
+            </div>
+          </div>
+        </section>
+
+      <!-- ============ PROJETOS EM CARDS ============ -->
+      <section class="section section--soft">
+        <div class="wrap-wide">
+          <div class="sec-head center" data-reveal>
+            <p class="eyebrow">Portfólio</p>
+            <h2 class="mw-46 mx-auto">Projetos completos, do traço à entrega</h2>
+            <div class="filters center" data-filters role="group" aria-label="Filtrar projetos por categoria"
+                 style="display:flex;gap:.5rem;flex-wrap:wrap;justify-content:center;margin-top:1.75rem">
+              <button class="btn btn--dark btn--sm" type="button" data-filter="todos" aria-pressed="true">Todos</button>
+              <button class="btn btn--outline btn--sm" type="button" data-filter="residencial" aria-pressed="false">Residencial</button>
+              <button class="btn btn--outline btn--sm" type="button" data-filter="comercial" aria-pressed="false">Comercial</button>
+            </div>
+          </div>
+
+          <div class="pgrid" data-stagger>
+            <div data-cat="residencial" id="residencia-contemporanea">
+              {{PCARD:residencia-contemporanea|01|Residência de dois pavimentos com fachada em madeira e concreto, piscina e pé-direito duplo — executada e entregue pela Ergo.}}
+            </div>
+            <div data-cat="residencial" id="casa-de-praia">
+              {{PCARD:casa-de-praia|18|Casa de veraneio com arcos, texturas artesanais e piscina de borda de areia, pensada para o clima do litoral.}}
+            </div>
+            <div data-cat="comercial" id="delicatessen">
+              {{PCARD:delicatessen|05|Projeto comercial completo com adega climatizada, padaria, área de buffet e salão de refeições integrados.}}
+            </div>
+            <div data-cat="comercial" id="dolce-by-dulce">
+              {{PCARD:dolce-by-dulce|01|Interiores de loja de moda com marcenaria sob medida, forro curvo iluminado e vitrine planejada.}}
+            </div>
+            <div data-cat="comercial" id="escritorio-ergo">
+              {{PCARD:escritorio-ergo|01|Nossa sede em Maragogi: projeto, execução e interiores feitos pela própria equipe da Ergo.}}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ CTA ============ -->
+      <section class="section">
+        <div class="wrap-wide">
+          <div class="cta" data-reveal>
+            {{IMG:residencia-contemporanea/29|100vw|Interior de residência de alto padrão entregue pela Ergo Construtora}}
+            <h2 class="mw-46 mx-auto">Quer ver o seu projeto aqui?</h2>
+            <p>Conte o que você quer construir ou reformar em Maragogi e região — respondemos com os próximos passos.</p>
+            <a class="btn btn--light" href="https://wa.me/{{WA_COM}}?text=Ol%C3%A1!%20Vi%20os%20projetos%20no%20site%20e%20quero%20iniciar%20o%20meu." target="_blank" rel="noopener">
+              <svg aria-hidden="true"><use href="#i-wa"></use></svg> Iniciar meu projeto
+            </a>
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    {{FOOTER}}
+  </div>
+
+  {{WA_FLOAT}}
+  {{LIGHTBOX}}
+  {{GALERIAS_JSON:residencia-contemporanea,casa-de-praia,delicatessen,dolce-by-dulce,escritorio-ergo}}
+  {{SCRIPTS}}
+</body>
+</html>
