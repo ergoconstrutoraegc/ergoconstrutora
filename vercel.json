@@ -1,10 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-
-  "//": "O site publicável fica em site/ (gerado por tools/build.js). Sem esta linha a Vercel serve a raiz do repositório e a home dá 404.",
   "outputDirectory": "site",
-
-  "//2": "Headers portados de site/.htaccess, que só vale para Apache (Hostinger/cPanel) e é ignorado pela Vercel. HTTPS e compressão a Vercel já faz sozinha.",
   "headers": [
     {
       "source": "/(.*)",
@@ -26,7 +22,6 @@
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
     },
     {
-      "//": "css/js não têm hash no nome — cache curto para não travar atualização",
       "source": "/assets/css/(.*)",
       "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600, must-revalidate" }]
     },
