@@ -14,7 +14,7 @@ window.ERGO = {
   // E-mail de contato
   email: 'ergoconstrutora.egc@gmail.com',
   // Endereço
-  endereco: 'R. Dourado, Barra Grande — Maragogi/AL, 57955-000',
+  endereco: 'Rodovia AL-101 Norte, Galeria Santa Luzia, Loja 10 — Maragogi/AL, 57955-000',
   // Instagram
   instagram: 'https://www.instagram.com/ergoconstrutora/',
   // Horário de atendimento (0 = domingo)
